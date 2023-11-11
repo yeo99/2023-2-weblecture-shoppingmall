@@ -6,7 +6,7 @@ import { StoreProvider } from "@/redux/StoreProvider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Jang Shop",
+  title: "Shop",
   description: "Global shopping mall using Next.js, MongoDB",
 }
 
